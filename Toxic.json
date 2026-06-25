@@ -1,10 +1,4 @@
 {
-    "serverstatus":"true",
-    "noticemode":"true",
-    "dataclearmode":"false",
-    "servermeassage":"Wait We Are LWorking On a new Update !",
-    "opentime":" Just wait few more times 🙂",
-    "libs":"https://github.com/Mrtoxic215/ONLINE-LIB/raw/refs/heads/main/TOXIC.zip",
-    "notice_title":"MADE BY:-@TOXIC_MOD_OWNER",
-    "notice_body":""
+    "version":"3.0",
+    "status":"ok"
 }
